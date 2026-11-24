@@ -1,0 +1,9 @@
+LoanID,Age,Gender,Income,LoanAmount,LoanTermMonths,CreditScore,NumOfDependents,Default 
+1,25,Male,30000,200000,60,650,0,Yes 
+2,40,Female,60000,150000,48,720,2,No 
+3,35,Male,45000,100000,36,690,1,No 
+4,50,Female,80000,250000,72,680,3,Yes 
+5,30,Male,40000,120000,60,640,2,Yes 
+6,45,Female,70000,180000,48,710,1,No 
+7,28,Male,35000,90000,36,630,0,Yes 
+8,55,Female,90000,220000,60,750,2,No
